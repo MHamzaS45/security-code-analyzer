@@ -4,6 +4,11 @@ An **AI-powered CLI code analyzer** that uses Google's Gemini model to parse thr
 
 ---
 
+## Algorithm 
+
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/ca2a14bb-512c-4649-a59e-b00e891c43a1" />
+
+
 ## Features
 
 - **AI-driven analysis** — Uses Gemini 2.5 Flash to identify security vulnerabilities in your code
