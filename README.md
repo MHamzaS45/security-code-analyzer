@@ -89,7 +89,8 @@ genai.configure(api_key=api_key)
 
 If your `.env` uses a different variable name, use that same name in `os.getenv("YOUR_VAR_NAME")`. 
 
-[!NOTE](Never commit your real API key or put it directly in source code.)
+[!NOTE]
+Never commit your real API key or put it directly in source code.
 
 ---
 
