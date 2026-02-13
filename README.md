@@ -1,6 +1,6 @@
 # Security Code Analyzer
 
-An **AI-powered CLI code analyzer** that uses Google's Gemini model to parse through python files for security issues. Get structured, severity-colored reports for SQL injection, hardcoded credentials, weak cryptography, command injection, and more.
+An **AI-powered CLI code analyzer** that uses Google's Gemini model to scan python files for security issues. Get structured, severity-colored reports for SQL injection, hardcoded credentials, weak cryptography, command injection, and more.
 
 ---
 
@@ -89,8 +89,8 @@ genai.configure(api_key=api_key)
 
 If your `.env` uses a different variable name, use that same name in `os.getenv("YOUR_VAR_NAME")`. 
 
-[!NOTE]
-Never commit your real API key or put it directly in source code.
+> [!NOTE]
+> Never commit your real API key or put it directly in source code.
 
 ---
 
